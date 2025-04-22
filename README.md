@@ -1,71 +1,109 @@
-# 👨‍💻 Desarrollador Front-End Junior
+# 👨‍💻 Angel - Frontend Developer
 
-Bienvenido a mi perfil. Soy desarrollador front-end junior con formación en tecnologías web y móviles. Actualmente enfocado en fortalecer mis conocimientos y experiencia a través de proyectos prácticos, con un enfoque en la construcción de interfaces limpias, accesibles y funcionales. También tengo conocimientos básicos de desarrollo móvil con Android Studio.
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend_Developer-blue?style=flat&logo=react"/>
+  <img src="https://img.shields.io/badge/Web_Specialist-orange?style=flat&logo=html5"/>
+  <img src="https://komarev.com/ghpvc/?username=i4ngel&color=blueviolet"/>
+</p>
+
+<hr/>
+
+<img align='right' src='https://octodex.github.com/images/spidertocat.png' width='25%'>
+
+{  
+
+* 💻 `Especialidad`: **Desarrollo Frontend**,
+* 🌱 `Enfoque principal`: **Interfaces web modernas y responsivas**,
+* 🔧 `Tecnologías core`: **JavaScript, HTML, CSS, Bootstrap**,
+* 📱 `Experiencia móvil`: **Kotlin, Android**
+
+}
+
+<br/>
+
+## ☕ Mis Estadísticas
+
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4ngel&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count4&hide=jupyter%20notebook,tex,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=i4ngel&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=i4ngel&theme=radical&hide_border=true&background=FFFFFF00">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=i4ngel&theme=radical"/>
+</p>
+
+## 🧩 Mis Tecnologías
+
+<h4 align="center">💻 Desarrollo Web Frontend</h4>
+
+<p align="center">
+  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"></a>
+  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"></a>
+  <a href="#"><img alt="SweetAlert2" src="https://img.shields.io/badge/SweetAlert2-FF5F6D.svg?logo=javascript&logoColor=white"></a>
+  <a href="#"><img alt="Notifyx" src="https://img.shields.io/badge/Notifyx-1E90FF.svg?logo=javascript&logoColor=white"></a>
+  <a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST%20API-000000.svg?logo=api&logoColor=white"></a>
+</p>
+
+<h4 align="center">📱 Desarrollo Móvil (Android)</h4>
+
+<p align="center">
+  <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
+  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?logo=android-studio&logoColor=white"></a>
+  <a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-4285F4.svg?logo=jetpack-compose&logoColor=white"></a>
+  <a href="#"><img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-005572.svg?logo=square&logoColor=white"></a>
+  <a href="#"><img alt="OkHttp3" src="https://img.shields.io/badge/OkHttp3-000000.svg?logo=square&logoColor=white"></a>
+  <a href="#"><img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-4353FF.svg?logo=socket.io&logoColor=white"></a>
+  <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material_Design-757575.svg?logo=material-design&logoColor=white"></a>
+</p>
+
+<h4 align="center">🛠️ Otras Herramientas</h4>
+
+<p align="center">
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
+  <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
+  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
+</p>
+
+<!-- 
+## 🚀 Proyectos Destacados
+
+| <a href="#" target="_blank">**Portfolio Personal**</a> | <a href="#" target="_blank">**Sitio Web Responsive**</a> | <a href="#" target="_blank">**Panel Administrativo**</a> | <a href="#" target="_blank">**App Android**</a> |
+| :---: | :---: | :---: | :---: |
+| <img align='center' src='https://via.placeholder.com/100?text=Portfolio' width="100px"  height='100px'> | <img align='center' width="100px" src='https://via.placeholder.com/100?text=Web' height='100px'> | <img align='center' src='https://via.placeholder.com/100?text=Admin' width="100px" height='100px'> | <img align='center' src='https://via.placeholder.com/100?text=Android' width="100px" height='100px'> |
+| <p>Mi sitio web personal con portfolio de proyectos</p> <a href="#" target="_blank">`Demo`</a> | <p>Sitio web con diseño responsive y Bootstrap</p> <a href="#" target="_blank">`Demo`</a> | <p>Panel administrativo con consumo de APIs</p> <a href="#" target="_blank">`Demo`</a> | <p>Aplicación Android desarrollada en Kotlin</p> <a href="#" target="_blank">`Demo`</a> |
+-->
+
+## 💬 Sobre Mí
+
+Soy un desarrollador frontend especializado en crear interfaces web intuitivas y atractivas. Me enfoco en HTML, CSS y JavaScript para construir sitios web responsivos que ofrecen una excelente experiencia de usuario.
+
+También tengo experiencia desarrollando aplicaciones móviles nativas para Android con Kotlin y Jetpack Compose, pero mi verdadera pasión está en el desarrollo web frontend donde disfruto implementando diseños responsivos y consumiendo APIs REST.
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://linkedin.com/in/i4ngel"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:angel@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/i4ngel"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white"></a>
+  <a href="https://i4ngel.dev"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4.svg?logo=google-chrome&logoColor=white"></a>
+</p>
 
 ---
 
-### 🛠️ Tecnologías y herramientas
-
-#### 🌐 Desarrollo Web
-- **Lenguajes:** HTML, CSS, JavaScript, PHP
-- **Frameworks y bibliotecas:** Bootstrap, jQuery, React, Angular (aprendizaje en curso)
-- **Utilidades:** Notifyx, SweetAlert
-- **Habilidades:** Consumo de APIs REST, diseño adaptable (responsive), validación e interacción dinámica
-
-#### 📱 Desarrollo Móvil
-- **Lenguaje y entorno:** Kotlin con Android Studio
-- **Librerías y herramientas:** Jetpack Compose, Retrofit, OkHttp3, WebSocket, Material Icons Extended
-
----
-
-<h2 align="center">🔧 Tecnologías que utilizo</h2>
-
-<h4 align="center">💻 Lenguajes y tecnologías web</h4>
-
-<p align="center">
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="https://www.php.net/manual/es/index.php" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-</p>
-
-<h4 align="center">📚 Frameworks y bibliotecas</h4>
-
-<p align="center">
-  <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-  <a href="https://jquery.com/" target="_blank"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"></a>
-  <a href="https://sweetalert2.github.io/" target="_blank"><img alt="SweetAlert2" src="https://img.shields.io/badge/SweetAlert2-FF5F6D.svg?logo=sweetalert&logoColor=white"></a>
-  <a href="https://notifyjs.jpillora.com/" target="_blank"><img alt="Notifyx" src="https://img.shields.io/badge/Notifyx-1E90FF.svg?logo=javascript&logoColor=white"></a>
-  <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
-  <a href="https://angular.io/" target="_blank"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"></a>
-</p>
-
-<h4 align="center">📱 Desarrollo móvil</h4>
-
-<p align="center">
-  <a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white"></a>
-  <a href="https://developer.android.com/jetpack/compose" target="_blank"><img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?logo=android&logoColor=white"></a>
-  <a href="https://square.github.io/retrofit/" target="_blank"><img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-005572.svg?logo=android&logoColor=white"></a>
-  <a href="https://square.github.io/okhttp/" target="_blank"><img alt="OkHttp3" src="https://img.shields.io/badge/OkHttp3-000000.svg?logo=java&logoColor=white"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-4CAF50.svg?logo=websocket&logoColor=white"></a>
-  <a href="https://fonts.google.com/icons" target="_blank"><img alt="Material Icons Extended" src="https://img.shields.io/badge/Material%20Icons%20Extended-616161.svg?logo=google&logoColor=white"></a>
-</p>
-
-<h4 align="center">🧰 Herramientas de desarrollo</h4>
-
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="https://www.jetbrains.com/" target="_blank"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000.svg?logo=jetbrains&logoColor=white"></a>
-  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
-  <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-</p>
-
----
-
-### 📌 Objetivos actuales
-- Consolidar experiencia práctica a través de proyectos personales
-- Aprender y aplicar buenas prácticas de desarrollo
-- Mejorar en el uso de frameworks como React y Angular
-- Profundizar en desarrollo móvil con Kotlin y Jetpack Compose
-
+```javascript
+// Un poco más sobre mí
+const angel = {
+  code: ["JavaScript", "HTML", "CSS", "PHP", "Kotlin"],
+  tools: ["Bootstrap", "jQuery", "SweetAlert2", "Postman", "Android Studio"],
+  challenge: "Mejorar continuamente mis habilidades en desarrollo frontend",
+  currentFocus: "Crear interfaces web que sean atractivas y fáciles de usar"
+};
+```
