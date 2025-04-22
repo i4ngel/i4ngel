@@ -14,7 +14,7 @@
 
 * 💻 `Especialidad`: **Desarrollo Frontend**,
 * 🌱 `Enfoque principal`: **Interfaces web modernas y responsivas**,
-* 🔧 `Tecnologías core`: **JavaScript, HTML, CSS, Bootstrap**,
+* 🔧 `Tecnologías core`: **JavaScript, HTML, CSS, Bootstrap, Tailwind CSS**,
 * 📱 `Experiencia móvil`: **Kotlin, Android**
 
 }
@@ -43,6 +43,7 @@
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+  <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
   <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"></a>
   <a href="#"><img alt="SweetAlert2" src="https://img.shields.io/badge/SweetAlert2-FF5F6D.svg?logo=javascript&logoColor=white"></a>
   <a href="#"><img alt="Notifyx" src="https://img.shields.io/badge/Notifyx-1E90FF.svg?logo=javascript&logoColor=white"></a>
@@ -102,7 +103,7 @@ También tengo experiencia desarrollando aplicaciones móviles nativas para Andr
 // Un poco más sobre mí
 const angel = {
   code: ["JavaScript", "HTML", "CSS", "PHP", "Kotlin"],
-  tools: ["Bootstrap", "jQuery", "SweetAlert2", "Postman", "Android Studio"],
+tools: ["Bootstrap", "Tailwind CSS", "jQuery", "SweetAlert2", "Postman", "Android Studio"],
   challenge: "Mejorar continuamente mis habilidades en desarrollo frontend",
   currentFocus: "Crear interfaces web que sean atractivas y fáciles de usar"
 };
