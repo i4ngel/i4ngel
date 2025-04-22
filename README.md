@@ -97,14 +97,3 @@ También tengo experiencia desarrollando aplicaciones móviles nativas para Andr
   <a href="https://i4ngel.dev"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4.svg?logo=google-chrome&logoColor=white"></a>
 </p>
 
----
-
-```javascript
-// Un poco más sobre mí
-const angel = {
-  code: ["JavaScript", "HTML", "CSS", "PHP", "Kotlin"],
-tools: ["Bootstrap", "Tailwind CSS", "jQuery", "SweetAlert2", "Postman", "Android Studio"],
-  challenge: "Mejorar continuamente mis habilidades en desarrollo frontend",
-  currentFocus: "Crear interfaces web que sean atractivas y fáciles de usar"
-};
-```
