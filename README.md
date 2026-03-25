@@ -1,99 +1,106 @@
-# 👨‍💻 Angel - Frontend Developer
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend_Developer-blue?style=flat&logo=react"/>
-  <img src="https://img.shields.io/badge/Web_Specialist-orange?style=flat&logo=html5"/>
-  <img src="https://komarev.com/ghpvc/?username=i4ngel&color=blueviolet"/>
-</p>
+# ¡Hola! Soy Angel 👋
 
-<hr/>
+### Desarrollador Frontend · Interfaces Web Modernas · APIs REST
 
-<img align='right' src='https://octodex.github.com/images/spidertocat.png' width='25%'>
+<img src="https://komarev.com/ghpvc/?username=i4ngel&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="visitas" />
 
-{  
+</div>
 
-* 💻 `Especialidad`: **Desarrollo Frontend**,
-* 🌱 `Enfoque principal`: **Interfaces web modernas y responsivas**,
-* 🔧 `Tecnologías core`: **JavaScript, HTML, CSS, Bootstrap, Tailwind CSS**,
-* 📱 `Experiencia móvil`: **Kotlin, Android**
+---
 
-}
+<img align="right" src="https://octodex.github.com/images/spidertocat.png" width="22%" />
 
-<br/>
+### 💻 Sobre mí
 
-## ☕ Mis Estadísticas
+| | |
+|---|---|
+| 🎯 **Rol** | Desarrollador Frontend |
+| 🌐 **Core** | HTML · CSS · JavaScript · PHP |
+| 🎨 **Frameworks UI** | Bootstrap 5 · Tailwind CSS · React · Angular |
+| ⚙️ **Backend** | Node.js · Express · REST APIs |
+| 🛠️ **Herramientas** | Git · Figma · VS Code · Postman |
 
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4ngel&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count4&hide=jupyter%20notebook,tex,php&exclude_repo=Pacman-AI">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=i4ngel&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=i4ngel&theme=radical&hide_border=true&background=FFFFFF00">
-</p>
+Desarrollador frontend con enfoque en la construcción de interfaces web estructuradas, accesibles y responsivas. Trabajo con tecnologías modernas del ecosistema web y cuento con experiencia en el consumo e integración de APIs REST desde el frontend, así como en el desarrollo de servicios backend con Node.js y Express.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=i4ngel&theme=radical"/>
-</p>
+---
 
-## 🧩 Mis Tecnologías
+### 🚀 Stack Tecnológico
 
-<h4 align="center">💻 Desarrollo Web Frontend</h4>
+<div align="center">
 
-<p align="center">
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-  <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white"></a>
-  <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white"></a>
-  <a href="#"><img alt="SweetAlert2" src="https://img.shields.io/badge/SweetAlert2-FF5F6D.svg?logo=javascript&logoColor=white"></a>
-  <a href="#"><img alt="Notifyx" src="https://img.shields.io/badge/Notifyx-1E90FF.svg?logo=javascript&logoColor=white"></a>
-  <a href="#"><img alt="REST API" src="https://img.shields.io/badge/REST%20API-000000.svg?logo=api&logoColor=white"></a>
-</p>
+#### 🌐 Frontend Core
+<img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" />
 
-<h4 align="center">📱 Desarrollo Móvil (Android)</h4>
+#### 🎨 Frameworks & UI
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap 5" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" />
 
-<p align="center">
-  <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
-  <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?logo=android-studio&logoColor=white"></a>
-  <a href="#"><img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-4285F4.svg?logo=jetpack-compose&logoColor=white"></a>
-  <a href="#"><img alt="Retrofit" src="https://img.shields.io/badge/Retrofit-005572.svg?logo=square&logoColor=white"></a>
-  <a href="#"><img alt="OkHttp3" src="https://img.shields.io/badge/OkHttp3-000000.svg?logo=square&logoColor=white"></a>
-  <a href="#"><img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-4353FF.svg?logo=socket.io&logoColor=white"></a>
-  <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material_Design-757575.svg?logo=material-design&logoColor=white"></a>
-</p>
+#### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=express" height="45" alt="Express" />
 
-<h4 align="center">🛠️ Otras Herramientas</h4>
+#### 🛠️ Herramientas
+<img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
 
-<p align="center">
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
-  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white"></a>
-  <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white"></a>
-  <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
-</p>
+</div>
 
-<!-- 
-## 🚀 Proyectos Destacados
+---
 
-| <a href="#" target="_blank">**Portfolio Personal**</a> | <a href="#" target="_blank">**Sitio Web Responsive**</a> | <a href="#" target="_blank">**Panel Administrativo**</a> | <a href="#" target="_blank">**App Android**</a> |
-| :---: | :---: | :---: | :---: |
-| <img align='center' src='https://via.placeholder.com/100?text=Portfolio' width="100px"  height='100px'> | <img align='center' width="100px" src='https://via.placeholder.com/100?text=Web' height='100px'> | <img align='center' src='https://via.placeholder.com/100?text=Admin' width="100px" height='100px'> | <img align='center' src='https://via.placeholder.com/100?text=Android' width="100px" height='100px'> |
-| <p>Mi sitio web personal con portfolio de proyectos</p> <a href="#" target="_blank">`Demo`</a> | <p>Sitio web con diseño responsive y Bootstrap</p> <a href="#" target="_blank">`Demo`</a> | <p>Panel administrativo con consumo de APIs</p> <a href="#" target="_blank">`Demo`</a> | <p>Aplicación Android desarrollada en Kotlin</p> <a href="#" target="_blank">`Demo`</a> |
--->
+### 📊 Mis Estadísticas
 
-## 💬 Sobre Mí
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=i4ngel&show_icons=true&count_private=true&theme=radical&hide_border=true&hide=issues,contribs&bg_color=00000000&locale=es" height="160" alt="estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i4ngel&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex&exclude_repo=Pacman-AI&locale=es" height="160" alt="lenguajes más usados" />
+</div>
 
-Soy un desarrollador frontend especializado en crear interfaces web intuitivas y atractivas. Me enfoco en HTML, CSS y JavaScript para construir sitios web responsivos que ofrecen una excelente experiencia de usuario.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=i4ngel&locale=es&mode=daily&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="160" alt="racha de commits" />
+</div>
 
-También tengo experiencia desarrollando aplicaciones móviles nativas para Android con Kotlin y Jetpack Compose, pero mi verdadera pasión está en el desarrollo web frontend donde disfruto implementando diseños responsivos y consumiendo APIs REST.
+---
 
-## 📫 Contacto
+### 🐍 Contribuciones
 
-<p align="center">
-  <a href="https://linkedin.com/in/i4ngel"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:angel@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/i4ngel"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white"></a>
-  <a href="https://i4ngel.dev"><img alt="Website" src="https://img.shields.io/badge/Website-4285F4.svg?logo=google-chrome&logoColor=white"></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/i4ngel/i4ngel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/i4ngel/i4ngel/output/pacman-contribution-graph.svg">
+  <img alt="gráfico de contribuciones pacman" src="https://raw.githubusercontent.com/i4ngel/i4ngel/output/pacman-contribution-graph.svg">
+</picture>
 
+---
+
+### 📬 Contacto
+
+<div align="center">
+  <a href="https://twitter.com/i4ngel">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter" />
+  </a>
+  <a href="mailto:reginaldoeduado2@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email" />
+  </a>
+  <a href="https://discord.com/users/i4ngel">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="discord" />
+  </a>
+</div>
