@@ -18,7 +18,8 @@
 |---|---|
 | 🎯 **Rol** | Desarrollador Frontend |
 | 🌐 **Core** | HTML · CSS · JavaScript · PHP |
-| 🎨 **Frameworks UI** | Bootstrap 5 · Tailwind CSS · React · Angular |
+| 🎨 **Frontend** | Bootstrap 5 · Tailwind CSS · React · Angular |
+| ⚡ **Tools & Frameworks** | Vite · Astro |
 | ⚙️ **Backend** | Node.js · Express · REST APIs |
 | 🛠️ **Herramientas** | Git · Figma · VS Code · Postman |
 
@@ -39,7 +40,7 @@ Desarrollador frontend con enfoque en la construcción de interfaces web estruct
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" />
 
-#### 🎨 Frameworks & UI
+#### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap 5" />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
@@ -47,6 +48,11 @@ Desarrollador frontend con enfoque en la construcción de interfaces web estruct
 <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" />
+
+#### ⚡ Tools & Frameworks
+<img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=astro" height="45" alt="Astro" />
 
 #### ⚙️ Backend & APIs
 <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
