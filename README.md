@@ -32,6 +32,7 @@ Desarrollador frontend con enfoque en la construcción de interfaces web estruct
 <div align="center">
 
 #### 🌐 Frontend Core
+
 <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
@@ -39,27 +40,37 @@ Desarrollador frontend con enfoque en la construcción de interfaces web estruct
 <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
 
 #### 🎨 Frontend
+
 <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap 5" />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
 <img width="6" />
+<img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" />
+<img width="6" />
 <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" />
 
 #### ⚡ Tools & Frameworks
+
 <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite" />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=astro" height="45" alt="Astro" />
 
 #### ⚙️ Backend & APIs
+
 <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express" />
+<img width="6" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="45" alt="NestJS" />
 
 #### 🛠️ Herramientas
+
 <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
 <img width="6" />
 <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
